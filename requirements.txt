@@ -1,0 +1,7 @@
+crawl4ai
+pandas
+streamlit
+google-generativeai
+asyncio
+playwright
+dotenv
